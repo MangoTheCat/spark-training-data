@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Imputer","timestamp":1608544079432,"sparkVersion":"2.4.3","uid":"imputer__99fc3efc_4371_11eb_bb77_77bbb611b07c","paramMap":{"outputCols":["OzoneImp","SolarImp"],"strategy":"mean","inputCols":["Ozone","Solar_R"]},"defaultParamMap":{"strategy":"mean","missingValue":"NaN"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1608544078121,"sparkVersion":"2.4.3","uid":"dplyr_transformer__99dbab92_4371_11eb_bb77_77bbb611b07c","paramMap":{"statement":"SELECT CAST(`Ozone` AS DOUBLE) AS `Ozone`, CAST(`Solar_R` AS DOUBLE) AS `Solar_R`, `Wind`, `Temp`, `Month`, `Day`\nFROM `__THIS__`"},"defaultParamMap":{}}

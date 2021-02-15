@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Binarizer","timestamp":1608544078655,"sparkVersion":"2.4.3","uid":"binarizer__99e9a15c_4371_11eb_bb77_77bbb611b07c","paramMap":{"threshold":10.0,"inputCol":"Wind","outputCol":"HighWind"},"defaultParamMap":{"threshold":0.0,"outputCol":"binarizer__99e9a15c_4371_11eb_bb77_77bbb611b07c__output"}}
